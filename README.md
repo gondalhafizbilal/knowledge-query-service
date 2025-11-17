@@ -1,4 +1,4 @@
-# Personal Knowledge Assistant (PKA)
+# Knowledge Query Service (KQS)
 
 A full-stack application that ingests notes, PDFs, books, or research papers and allows you to query them using an Ollama LLM model.
 
